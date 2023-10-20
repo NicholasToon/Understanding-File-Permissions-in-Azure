@@ -1,4 +1,4 @@
-![Image](https://i.imgur.com/ogCPcmE.png)
+![Image](https://i.imgur.com/pBtAAgX.png)
 
 <h1>Understanding File Permissions</h1>
 
