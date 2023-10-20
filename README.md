@@ -1,4 +1,4 @@
-![Image](https://i.imgur.com/pBtAAgX.png)
+![Image](https://i.imgur.com/ew2fvrw.png)
 
 # Understanding File Permissions
 
