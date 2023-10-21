@@ -39,7 +39,7 @@ Navigate to the **support folder**, then proceed to add the SUPPORT security gro
 
 ![Image](https://i.imgur.com/oI9CYbf.png)
 
-To wrap this up, we will connect to the user assigned under support to test various file shares. Log in as "gib.kega" (your user) and open the file directory. Enter `\\dc-1` into the file path, and it will take you to the network folders. From here, you can observe the permissions in action when attempting to use **no-access** and **support**. **no-access** is self-explanatory, but **support** would not have allowed us access if we had not assigned the user to that specific security group. You can also jump back and forth to manipulate and observe the folders as you wish, but you should now have the fundamentals to experiment if you desire.
+To wrap this up, we will connect to the user assigned under support to test various file shares. Log in as "gib.kega" (your user) and open the file directory. Enter `\\dc-1` into the file path, and it will take you to the network folders. From here, you can observe the permissions in action when attempting to use **no-access** and **support**. **no-access** is self-explanatory, but **support** would not have allowed us access if we had not assigned the user to that specific security group. You can also jump back and forth to manipulate and observe the folders as you wish, but now you should have the fundamentals to experiment with if you desire.
 
 ---
 
