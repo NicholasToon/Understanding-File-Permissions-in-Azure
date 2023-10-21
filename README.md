@@ -3,6 +3,8 @@
 # Understanding File Permissions
 Once again, this tutorial will not make sense unless you have completed the prerequisite tutorials. We will be focusing on the shares and permissions of files within our Active Directory domain. 
 
+*Always delete your resource groups and other environments in Azure to avoid incurring any unwanted charges on your free credits or actual money. Keep resources open at your own discretion.*
+
 ## Environments and Technologies Used
 
 - Microsoft Azure (Virtual Machines/Compute)
