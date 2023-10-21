@@ -23,13 +23,15 @@ On DC-1, we will create four differently named folders in the C:\ drive. The nam
 
 ## Creating a Security Group
 
-![Image]()
+![Image](https://i.imgur.com/3Ab8tjI.png)
 
 Open Active Directory Users and Computers under Tools, expand your domain and right-click Users, New, Group, enter a name for the group (e.g. "Support"), click ok to create the group.
 
+![Image](https://i.imgur.com/yNZgyqR.png)
+
 Open **Active Directory Users and Computers**. Under **Tools**, expand your domain, right-click **Users**, and select **New** > **Group**. Enter a name for the group (e.g., "Support") and click **OK** to create the group. Once the group is created, you can now add users by double-clicking **SUPPORT**, selecting **Members**, adding one of your created users (e.g., gib.kega), clicking **Apply**, and then **OK**.
 
-![Image]()
+![Image](https://i.imgur.com/A9UfXqG.png)
 
 Navigate to the **support folder**, then proceed to add the SUPPORT security group via the properties. Ensure that they have Read/Write permissions.
 
